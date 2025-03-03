@@ -7,7 +7,7 @@ export function TokenLaunchpad() {
         alignItems: 'center',
         flexDirection: 'column'
     }}>
-        <h1>Solana Token Launchpad</h1>
+        <h1 class="gradient-text">Solana Token Launchpad</h1>
         <input className='inputText' type='text' placeholder='Name'></input> <br />
         <input className='inputText' type='text' placeholder='Symbol'></input> <br />
         <input className='inputText' type='text' placeholder='Image URL'></input> <br />
